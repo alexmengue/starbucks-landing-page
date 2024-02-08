@@ -1,3 +1,3 @@
 function imgSlider(anything) {
-    //soon
+    document.querySelector('.starbucks').src = anything;
 }
