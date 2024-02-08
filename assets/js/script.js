@@ -1,0 +1,3 @@
+function imgSlider(anything) {
+    //soon
+}
